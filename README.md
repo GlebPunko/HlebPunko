@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HlebPunko
+- 👋 Hi, I’m @GlebPunko
 - 👀 I’m interested in .NET Core, React, SQL and in another languages and technologies
 - 🌱 I’m currently studying Brest State Technical Unversity, have experience with ASP.NET Web API, EF Core/Dapper, Docker, Azure
 - 💞️ I’m looking to collaborate on on with other companies
